@@ -1,0 +1,33 @@
+core\consts.js                 67 行  VERSION@3  hash@10  features@27  cueOf@48  smellsOff@60
+core\desc.js                  124 行  RULES@8  SAFE@43  PHRASE@52  describe@62  dump@108
+core\engine.js                327 行  ORDER_A@18  ORDER_B@19  DEFAULTS@21  SPECS@31  TICK_MS@38  SLOW_MS@39  createEngine@41  readAll@86  stepOne@92  fuse@114  slow@139  tick@171
+core\quench.js                 36 行  QUENCH@4  plasticity@8  touch@13  addShock@20  decayShock@26  blankMeta@33
+core\selfdraft.mjs             67 行  EMOTION_TAG@8  pickSelfEvents@23  draftSelf@49
+core\signature.js              88 行  BASE@6  createSignatures@16
+core\store.js                  48 行  createStore@6
+core\traitstat.js              66 行  createTracker@6
+organs\acc.js                 126 行  DEFAULTS@6  create@15
+organs\mpfc.js                129 行  DEFAULTS@5  ADJ@15  create@23
+organs\ofc.js                 119 行  DEFAULTS@5  create@14
+organs\pcc.js                 123 行  DEFAULTS@6  create@17
+organs\str.js                 146 行  DEFAULTS@6  create@18
+organs\tpj.js                 107 行  DEFAULTS@5  SCRIPT@12  create@20
+bridge\affect.js               48 行  guard@4  createAffectBridge@13
+bridge\memory.js               77 行  EMOTION_TAG@7  createMemoryBridge@12
+tests\affects-mood.mjs        100 行  runPhrase@14
+tests\extract-fixture.mjs      50 行  FILES@4  N@38
+tests\gen-index.mjs            28 行  RE@5  RE2@6
+tests\integration-memory.mjs   77 行  bridge@51
+tests\lifecycle.mjs           171 行  ROUNDS@8  UNIT@10  SIGNED@21  checkRange@26  fp@39  engine@47  dup@109  runAll@118  PROBES@130  NEUTRAL@138  seq@156
+tests\memory-link.mjs         105 行  fakeHip@14  ROWS@31
+tests\persona-hex-bias-modulate.mjs  100 行  
+tests\persona-ofc-warm.mjs     94 行  
+tests\persona-service.mjs      82 行  
+tests\persona-snapshot-restore.mjs   85 行  
+tests\persona-state-persists.mjs   87 行  
+tests\selftest.mjs            256 行  check@14
+tests\shared-beat.mjs         113 行  makeBus@21  makeCtx@40
+tests\smoke.mjs                36 行  
+client.js                      34 行  
+index.js                      325 行  VERSION@20  apply@24  modulate@65  retune@93  tick@119  text@142  health@158  makeTool@309
+panel.js                      293 行  DEFAULTS@12  createPanel@14  save@22  knobs@34  applyKnobs@44  extraText@50  snapshot@56  fmt@141  render@142  load@164  json@206  readBody@212  register@221  resetKnobs@287
