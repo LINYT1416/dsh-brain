@@ -1,0 +1,8 @@
+{
+  "$comment": "注入开关。true = 往 system prompt 里注入；false = 不注入，器官只当资料库（工具照样能用）。改完重启生效。",
+  "inject": {
+    "hippocampus": true,
+    "cortex": false,
+    "prefrontal": false
+  }
+}
